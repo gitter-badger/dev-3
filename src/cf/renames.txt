@@ -1,3 +1,4 @@
 ﻿Configuration.xml-->Configuration.xml
 Catalogs\Справочник1.xml-->Catalogs\Справочник1.xml
+Catalogs\Справочник2.xml-->Catalogs\Справочник2.xml
 Languages\Русский.xml-->Languages\Русский.xml
