@@ -113,6 +113,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Role>ПолныеПрава</Role>
 			<Catalog>Справочник1</Catalog>
 			<Catalog>Справочник222</Catalog>
 		</ChildObjects>

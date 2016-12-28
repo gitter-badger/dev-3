@@ -2,3 +2,5 @@
 Catalogs\Справочник1.xml-->Catalogs\Справочник1.xml
 Catalogs\Справочник222.xml-->Catalogs\Справочник222.xml
 Languages\Русский.xml-->Languages\Русский.xml
+Roles\ПолныеПрава.xml-->Roles\ПолныеПрава.xml
+Roles\ПолныеПрава\Ext\Rights.xml-->Roles\ПолныеПрава\Ext\Rights.xml
